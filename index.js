@@ -116,4 +116,4 @@ Discord API: ${client.ping.toFixed(0)} ms\`\`\``);
   }
 });
 
-client.login("NzY5MzUzMjE3MzkzMjk1Mzcy.X5NyBA.rCUwMoC-04x_Wr05FtgUC1sHAf0");
+client.login("NzY5MzUzMjE3MzkzMjk1Mzcy.X5NyBA.4EBbkXyPp__m4ffOOie3eIxtiqQ");
